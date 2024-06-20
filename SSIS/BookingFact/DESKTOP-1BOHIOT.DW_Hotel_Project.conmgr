@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-1BOHIOT.DW_Hotel_Project"
+  DTS:DTSID="{35119737-B55F-484F-88DC-91E57281A397}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-1BOHIOT;Initial Catalog=DW_Hotel_Project;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-BookingFact-{35119737-B55F-484F-88DC-91E57281A397}DESKTOP-1BOHIOT.DW_Hotel_Project;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
